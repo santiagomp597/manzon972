@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manzon972
+- 👀 I’m interested in weird and innovative UI/UX projects.
+- 🌱 I’m currently learning ReactJs from the ground, wish me luck.
